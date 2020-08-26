@@ -5,6 +5,9 @@
 追加テキスト　by ymatsunami
 
 
+追加の文を入れました。 ymatsunami @14:50
+=======
+
 追加の文を入れました。by nakayoshix @14:50
 =======
 
@@ -28,6 +31,7 @@
 追加テキスト by nk
 =======
 鰻が食べたい by kinya Kawanobe
+
 
 
 
